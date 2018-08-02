@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Banana" size="0.500000 0.375000" />
+    <ImageTarget name="Apples" size="0.500000 0.332714" />
+    <ImageTarget name="pineapple" size="0.250000 0.306020" />
+    <ImageTarget name="watermelon" size="0.250000 0.317353" />
+    <ImageTarget name="cover" size="6.000000 7.492334" />
+  </Tracking>
+</QCARConfig>
